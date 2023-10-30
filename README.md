@@ -14,7 +14,7 @@
 
 
 ## General Information
-- Một website dựa trên ý tưởng một blog chia sẻ kiến thức cộng dồng. Với bog này người dùng có thể tạo bài viết, phân loại bài viết, yêu thích một bài viết nào đó, comment cho bài viết, mọi người có thể tìm kiếm bài viết theo chủ đề mình yêu thích, theo tác giả.
+- Một website dựa trên ý tưởng một blog chia sẻ kiến thức cộng đồng. Với blog này người dùng có thể tạo bài viết, phân loại bài viết, yêu thích một bài viết nào đó, comment cho bài viết, mọi người có thể tìm kiếm bài viết theo chủ đề mình yêu thích, theo tác giả.
 ## Technologies Used
 - Backend: java, spring-boot
 - Database: PostgreSql
